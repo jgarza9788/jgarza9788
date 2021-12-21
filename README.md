@@ -20,6 +20,7 @@ Cell: [1 (818) 251-0647](tel:18182510647)
 [![Linkedin: Justin Garza](https://img.shields.io/badge/Justin_Garza-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/jgarza9788)  
 -->
 
+<!--
 ### Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat-square&logo=Windows&logoColor=white&color=0078d2)  
@@ -33,7 +34,7 @@ Cell: [1 (818) 251-0647](tel:18182510647)
 ![](https://img.shields.io/badge/T_SQL-informational?style=flat-square&logo=microsoftsqlserver&logoColor=white&color=555555)  
 ![](https://img.shields.io/badge/Teradata-informational?style=flat-square&logo=teradata&logoColor=white&color=555555)  
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=555555)
-
+-->
 
 <!--
 **jgarza9788/jgarza9788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,7 +47,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
