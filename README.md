@@ -52,9 +52,15 @@ Here are some ideas to get you started:
 
 
 <!--
+AWS certificate
+Azure certificate
+Google Cloud certificate
+-->
+
+<!--
 https://grow.google/certificates/data-analytics/
 https://grow.google/certificates/project-management/
-https://grow.google/certificates/it-support/
+https://www.coursera.org/specializations/blockchain#courses
 
-https://grow.google/certificates/ux-design/
+https://digitalskills.cpie.csulb.edu/software-development-bootcamp/ - 15k
 -->
