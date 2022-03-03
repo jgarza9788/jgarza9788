@@ -55,6 +55,10 @@ Here are some ideas to get you started:
 AWS certificate
 Azure certificate
 Google Cloud certificate
+
+data analytics
+project management
+block chain (multi-course)
 -->
 
 <!--
