@@ -17,7 +17,7 @@ SQL: [⭐⭐⭐⭐⭐]
 ✅ C# (Basic)  
 
 
-[![HackerRank: Justin Garza](https://img.shields.io/badge/---?style=flat-square&logo=HackerRank&logoColor=black&link=https://www.hackerrank.com/jgarza9788)](https://www.hackerrank.com/jgarza9788))
+[![HackerRank: HackerRank](https://img.shields.io/badge/---?style=flat-square&logo=HackerRank&logoColor=black&link=https://www.hackerrank.com/jgarza9788)](https://www.hackerrank.com/jgarza9788)
 
 
 ### Social Media:
