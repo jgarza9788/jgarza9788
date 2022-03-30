@@ -8,10 +8,10 @@ Cell: [1 (818) 251-0647](tel:18182510647)
 
 
 ### HackerRank
-## Badges
+#### Badges
 Python: [⭐⭐⭐⭐⭐]
 SQL: [⭐⭐⭐⭐⭐]
-## Verified Skills
+#### Verified Skills
 ✅ Python (Basic)
 ✅ SQL (Basic, Intermediate, Advanced)
 ✅ C# (Basic)
