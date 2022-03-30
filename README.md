@@ -1,10 +1,22 @@
 ## Hi, I'm Justin Garza 🍌  
-VP, Analytics Specialist II at Bank of America  
+VP, Software Engineer at Bank of America  
 And Big Computer/Tech Nerd 🧠
 
 ### Contact Me at:  
 Email: jgarza9788@gmail.com  
 Cell: [1 (818) 251-0647](tel:18182510647)
+
+
+### HackerRank
+## Badges
+Python: [⭐⭐⭐⭐⭐]
+SQL: [⭐⭐⭐⭐⭐]
+## Verified Skills
+✅ Python (Basic)
+✅ SQL (Basic, Intermediate, Advanced)
+✅ C# (Basic)
+
+
 
 
 ### Social Media:
