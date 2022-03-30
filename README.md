@@ -6,19 +6,22 @@ And Big Computer/Tech Nerd 🧠
 Email: jgarza9788@gmail.com  
 Cell: [1 (818) 251-0647](tel:18182510647)
 
-
-### HackerRank
+---
+  
+### [![HackerRank](https://img.shields.io/badge/-HackerRank-2ec866?style=flat-square&logo=HackerRank&logoColor=black&link=https://www.hackerrank.com/jgarza9788)](https://www.hackerrank.com/jgarza9788)  
 #### Badges 
-Python: [⭐⭐⭐⭐⭐]   
-SQL: [⭐⭐⭐⭐⭐]
+
+Python [⭐⭐⭐⭐⭐]  
+SQL [⭐⭐⭐⭐⭐]  
+
 #### Verified Skills
-✅ Python (Basic)  
+
+✅ 🐍 Python (Basic)  
 ✅ SQL (Basic, Intermediate, Advanced)  
 ✅ C# (Basic)  
 
 
-[![HackerRank: HackerRank](https://img.shields.io/badge/---?style=flat-square&logo=HackerRank&logoColor=black&link=https://www.hackerrank.com/jgarza9788)](https://www.hackerrank.com/jgarza9788)
-
+---
 
 ### Social Media:
 
