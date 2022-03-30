@@ -8,13 +8,12 @@ Cell: [1 (818) 251-0647](tel:18182510647)
 
 ---
   
-### [![HackerRank](https://img.shields.io/badge/-HackerRank-2ec866?style=flat-square&logo=HackerRank&logoColor=black&link=https://www.hackerrank.com/jgarza9788)](https://www.hackerrank.com/jgarza9788)  
-#### Badges 
-
+### [![HackerRank](https://img.shields.io/badge/-HackerRank-39424e?style=flat-square&logo=HackerRank&logoColor=2ec866&link=https://www.hackerrank.com/jgarza9788)](https://www.hackerrank.com/jgarza9788)  
+#### Badges:
 Python [⭐⭐⭐⭐⭐]  
 SQL [⭐⭐⭐⭐⭐]  
 
-#### Verified Skills
+#### Verified Skills:
 
 ✅ 🐍 Python (Basic)  
 ✅ SQL (Basic, Intermediate, Advanced)  
