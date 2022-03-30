@@ -1,5 +1,5 @@
 ## Hi, I'm Justin Garza 🍌  
-VP, Software Engineer at Bank of America  
+VP, Software Engineer II at Bank of America  
 And Big Computer/Tech Nerd 🧠
 
 ### Contact Me at:  
