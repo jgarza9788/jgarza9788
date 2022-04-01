@@ -22,11 +22,12 @@ SQL [⭐⭐⭐⭐⭐]
 
 ---
 
+<p>
 <iframe
   src="https://www.hackerrank.com/jgarza9788"
   style="width:100%; height:500px;"
 ></iframe>
-
+</p>
 ---
 
 ### Social Media:
