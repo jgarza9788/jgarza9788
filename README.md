@@ -23,6 +23,10 @@ SQL [⭐⭐⭐⭐⭐]
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jgarza9788&show_icons=true&locale=en&layout=compact" alt="jgarza9788" /></p>
+
+---
+
 ### Social Media:
 
 [![Linkedin: Justin Garza](https://img.shields.io/badge/-Justin_Garza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justin-garza-9a684a44/)](https://www.linkedin.com/in/justin-garza-9a684a44/)  
