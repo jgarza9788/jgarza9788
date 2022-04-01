@@ -16,10 +16,15 @@ SQL [⭐⭐⭐⭐⭐]
 
 #### Verified Skills:
 
-✅ 🐍 Python (Basic)  
+✅ Python (Basic)  
 ✅ SQL (Basic, Intermediate, Advanced)  
 ✅ C# (Basic)  
 
+---
+
+<p align="left">
+<img width="100%" height="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jgarza9788&show_icons=true&locale=en&layout=compact" alt="jgarza9788" />
+</p>
 
 ---
 
@@ -28,7 +33,7 @@ SQL [⭐⭐⭐⭐⭐]
 [![Linkedin: Justin Garza](https://img.shields.io/badge/-Justin_Garza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justin-garza-9a684a44/)](https://www.linkedin.com/in/justin-garza-9a684a44/)  
 [![GitHub: jgarza9788](https://img.shields.io/badge/jgarza9788-161b22?&style=flat-square&logo=github)](https://github.com/jgarza9788)  
 [![Unity](https://img.shields.io/badge/Justin_Garza-000000.svg?style=flat-square&logo=unity)](https://assetstore.unity.com/publishers/7928)  
-[![HackerRank](https://img.shields.io/badge/-HackerRank-39424e?style=flat-square&logo=HackerRank&logoColor=2ec866&link=https://www.hackerrank.com/jgarza9788)](https://www.hackerrank.com/jgarza9788)  
+[![HackerRank](https://img.shields.io/badge/-jgarza9788-39424e?style=flat-square&logo=HackerRank&logoColor=2ec866&link=https://www.hackerrank.com/jgarza9788)](https://www.hackerrank.com/jgarza9788)  
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jgarza9788&show_icons=true&locale=en" alt="jgarza9788" /></p>
