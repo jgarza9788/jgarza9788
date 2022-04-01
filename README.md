@@ -23,16 +23,16 @@ SQL [⭐⭐⭐⭐⭐]
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jgarza9788&show_icons=true&locale=en&layout=compact" alt="jgarza9788" /></p>
-
----
-
 ### Social Media:
 
 [![Linkedin: Justin Garza](https://img.shields.io/badge/-Justin_Garza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justin-garza-9a684a44/)](https://www.linkedin.com/in/justin-garza-9a684a44/)  
 [![GitHub: jgarza9788](https://img.shields.io/badge/jgarza9788-161b22?&style=flat-square&logo=github)](https://github.com/jgarza9788)  
 [![Unity](https://img.shields.io/badge/Justin_Garza-000000.svg?style=flat-square&logo=unity)](https://assetstore.unity.com/publishers/7928)
 
+
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jgarza9788&show_icons=true&locale=en" alt="jgarza9788" /></p>
+-->
 
 
 <!--
