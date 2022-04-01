@@ -7,7 +7,20 @@ Email: jgarza9788@gmail.com
 Cell: [1 (818) 251-0647](tel:18182510647)
 
 ---
+
+### Profiles and Stuff
+[![Linkedin: Justin Garza](https://img.shields.io/badge/-Justin_Garza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justin-garza-9a684a44/)](https://www.linkedin.com/in/justin-garza-9a684a44/)  
+[![GitHub: jgarza9788](https://img.shields.io/badge/jgarza9788-161b22?&style=flat-square&logo=github)](https://github.com/jgarza9788)  
+[![Unity](https://img.shields.io/badge/Justin_Garza-000000.svg?style=flat-square&logo=unity)](https://assetstore.unity.com/publishers/7928)  
+[![HackerRank](https://img.shields.io/badge/-jgarza9788-39424e?style=flat-square&logo=HackerRank&logoColor=2ec866&link=https://www.hackerrank.com/jgarza9788)](https://www.hackerrank.com/jgarza9788)  
+
+
+
+<!-- [![HackerRank](https://img.shields.io/badge/--39424e?style=for-the-badge&logo=HackerRank&logoColor=2ec866&link=https://www.hackerrank.com/jgarza9788)](https://www.hackerrank.com/jgarza9788)   -->
   
+<!-- ?style=for-the-badge&logo=appveyor -->
+
+<!-- 
 ### [![HackerRank](https://img.shields.io/badge/-HackerRank-39424e?style=flat-square&logo=HackerRank&logoColor=2ec866&link=https://www.hackerrank.com/jgarza9788)](https://www.hackerrank.com/jgarza9788)  
 #### Badges:
 Python [⭐⭐⭐⭐⭐]  
@@ -18,8 +31,10 @@ SQL [⭐⭐⭐⭐⭐]
 
 ✅ Python (Basic)  
 ✅ SQL (Basic, Intermediate, Advanced)  
-✅ C# (Basic)  
+✅ C# (Basic)   
+-->
 
+<!-- 
 ---
 
 ### Social Media:
@@ -28,6 +43,7 @@ SQL [⭐⭐⭐⭐⭐]
 [![GitHub: jgarza9788](https://img.shields.io/badge/jgarza9788-161b22?&style=flat-square&logo=github)](https://github.com/jgarza9788)  
 [![Unity](https://img.shields.io/badge/Justin_Garza-000000.svg?style=flat-square&logo=unity)](https://assetstore.unity.com/publishers/7928)  
 [![HackerRank](https://img.shields.io/badge/-jgarza9788-39424e?style=flat-square&logo=HackerRank&logoColor=2ec866&link=https://www.hackerrank.com/jgarza9788)](https://www.hackerrank.com/jgarza9788)  
+-->
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jgarza9788&show_icons=true&locale=en" alt="jgarza9788" /></p>
