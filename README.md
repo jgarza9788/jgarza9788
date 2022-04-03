@@ -27,7 +27,7 @@ Cell: [1 (818) 251-0647](tel:18182510647)
 </a> 
 
 
-<!--
+
 <a href="https://www.linkedin.com/in/justin-garza-9a684a44/" style="display:inline-block">
 <div style=" width:32px ; height:32px; background-color: #007ec6; border-radius: 5px;">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="linkedin" width="20" height="20" style="max-width: 100%;filter: invert(100%); padding: 6px;"> 
@@ -56,7 +56,6 @@ Cell: [1 (818) 251-0647](tel:18182510647)
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" alt="twitter" width="20" height="20" style="max-width: 100%; filter: invert(100%); padding: 6px;"> 
 </div>
 </a>  
--->
 
 
 <!-- <a href="https://google.com" style="display:inline-block">
