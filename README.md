@@ -14,8 +14,40 @@ Cell: [1 (818) 251-0647](tel:18182510647)
 [![Unity](https://img.shields.io/badge/Justin_Garza-000000.svg?style=for-the-badge&logo=unity)](https://assetstore.unity.com/publishers/7928)  
 [![HackerRank](https://img.shields.io/badge/-jgarza9788-39424e?style=for-the-badge&logo=HackerRank&logoColor=2ec866&link=https://www.hackerrank.com/jgarza9788)](https://www.hackerrank.com/jgarza9788) 
 
+<!-- [![Badges](https://img.shields.io/badge/dynamic/json?color=passing&logo=HackerRank&label=Badges&style=flat-square&query=%24.totalBadges&suffix=%E2%98%85&url=https%3A%2F%2Fhackerrank-badges.herokuapp.com%2Fapi%2Fjgarza9788)](https://www.hackerrank.com/jgarza9788) -->
+<!-- [![Stars](https://img.shields.io/badge/dynamic/json?color=passing&logo=HackerRank&label=Stars&style=flat-square&query=%24.totalStars&suffix=%E2%98%85&url=https%3A%2F%2Fhackerrank-badges.herokuapp.com%2Fapi%2Fjgarza9788)](https://www.hackerrank.com/jgarza9788) -->
+
+
+
+<!-- --- -->
+
+<!-- ### HackerRank  -->
+<!-- #### Badges -->
+<!-- [![HR_totalStars](https://img.shields.io/badge/dynamic/json?color=passing&logo=HackerRank&label=HackerRank.Badges&style=flat&query=%24.totalBadges&suffix=%E2%98%85&url=https%3A%2F%2Fhackerrank-badges.herokuapp.com%2Fapi%2Fjgarza9788)](https://www.hackerrank.com/jgarza9788) -->
+
+<!-- [![HR_Python](https://img.shields.io/badge/dynamic/json?color=passing&logo=HackerRank&label=Python.&style=flat&query=%24.badges.Python&suffix=%E2%98%85&url=https%3A%2F%2Fhackerrank-badges.herokuapp.com%2Fapi%2Fjgarza9788)](https://www.hackerrank.com/jgarza9788) -->
+<!-- [![HR_SQL](https://img.shields.io/badge/dynamic/json?color=passing&logo=HackerRank&label=Sql&query=%24.badges.Sql&suffix=%E2%98%85&url=https%3A%2F%2Fhackerrank-badges.herokuapp.com%2Fapi%2Fjgarza9788)](https://www.hackerrank.com/jgarza9788) -->
+<!-- [![HR_Java](https://img.shields.io/badge/dynamic/json?color=passing&logo=HackerRank&label=Java&style=flat&query=%24.badges.Java&suffix=%E2%98%85&url=https%3A%2F%2Fhackerrank-badges.herokuapp.com%2Fapi%2Fjgarza9788)](https://www.hackerrank.com/jgarza9788) -->
+
+<!-- [![HR_totalStars](https://img.shields.io/badge/dynamic/json?color=passing&logo=HackerRank&label=HackerRank.totalStars&style=flat&query=%24.totalStars&suffix=%E2%98%85&url=https%3A%2F%2Fhackerrank-badges.herokuapp.com%2Fapi%2Fjgarza9788)](https://www.hackerrank.com/jgarza9788) -->
+
+<!-- #### Certification -->
+<!-- ![Cert0](https://img.shields.io/badge/dynamic/json?color=passing&label=certificate&query=%24.data.0.attributes.certificate.track_slug&suffix=%E2%9C%93&url=https%3A%2F%2Fwww.hackerrank.com%2Fsourcing%2Fapi%2Fv1%2Ftest_results%2Fhacker_certificate%3Fusername%3Djgarza9788) -->
+<!-- ![Cert1](https://img.shields.io/badge/dynamic/json?color=passing&label=certificate&query=%24.data.1.attributes.certificate.track_slug&suffix=%E2%9C%93&url=https%3A%2F%2Fwww.hackerrank.com%2Fsourcing%2Fapi%2Fv1%2Ftest_results%2Fhacker_certificate%3Fusername%3Djgarza9788) -->
+<!-- ![Cert2](https://img.shields.io/badge/dynamic/json?color=passing&label=certificate&query=%24.data.2.attributes.certificate.track_slug&suffix=%E2%9C%93&url=https%3A%2F%2Fwww.hackerrank.com%2Fsourcing%2Fapi%2Fv1%2Ftest_results%2Fhacker_certificate%3Fusername%3Djgarza9788) -->
+<!-- ![Cert3](https://img.shields.io/badge/dynamic/json?color=passing&label=certificate&query=%24.data.3.attributes.certificate.track_slug&suffix=%E2%9C%93&url=https%3A%2F%2Fwww.hackerrank.com%2Fsourcing%2Fapi%2Fv1%2Ftest_results%2Fhacker_certificate%3Fusername%3Djgarza9788) -->
+<!-- ![Cert4](https://img.shields.io/badge/dynamic/json?color=passing&label=certificate&query=%24.data.4.attributes.certificate.track_slug&suffix=%E2%9C%93&url=https%3A%2F%2Fwww.hackerrank.com%2Fsourcing%2Fapi%2Fv1%2Ftest_results%2Fhacker_certificate%3Fusername%3Djgarza9788) -->
+<!-- ![Cert4](https://img.shields.io/badge/dynamic/json?color=passing&label=certificate&query=%24.data.5.attributes.certificate.track_slug&suffix=%E2%9C%93&url=https%3A%2F%2Fwww.hackerrank.com%2Fsourcing%2Fapi%2Fv1%2Ftest_results%2Fhacker_certificate%3Fusername%3Djgarza9788) -->
+
+
 
 <!-- https://simpleicons.org/ -->
+
+<!-- ![python](https://img.shields.io/badge/hackerrank-python_(Basic)-passing?style=flat&logo=hackerrank&logoColor=white&link=https://www.linkedin.com/in/justin-garza-9a684a44/) -->
+
+<!-- ![SQL](https://img.shields.io/badge/hackerrank-SQL_(Basic,_Intermediate,_Advanced)-passing?style=flat&logo=hackerrank&logoColor=white&link=https://www.linkedin.com/in/justin-garza-9a684a44/) -->
+
+<!-- ![python](https://img.shields.io/badge/hackerrank-CSharp_(Basic)-passing?style=flat&logo=hackerrank&logoColor=white&link=https://www.linkedin.com/in/justin-garza-9a684a44/) -->
 
 <!-- 
 <a href="https://www.linkedin.com/in/justin-garza-9a684a44/" style="display:inline-block">
