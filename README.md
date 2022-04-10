@@ -46,9 +46,8 @@ Cell: [1 (818) 251-0647](tel:18182510647)
 
 #### Badges
 [
-![](https://img.shields.io/badge/python-top__5%-passing?style=flat&logo=Python&logoColor=ffffff)
-![](https://img.shields.io/badge/Python-top__5%-passing??style=flat&logo=Python&logoColor=ffffff)
-![excel](https://img.shields.io/badge/MS_Excel-top__5%-passing?style=flat&logo=microsoftexcel&logoColor=ffffff)
+![python](https://img.shields.io/badge/python-top__5%25-passing?style=flat&logo=Python&logoColor=ffffff)
+![excel](https://img.shields.io/badge/MS_Excel-top__5%25-passing?style=flat&logo=microsoftexcel&logoColor=ffffff)
 ](https://www.linkedin.com/in/justin-garza-9a684a44/) 
 
 
