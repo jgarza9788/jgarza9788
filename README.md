@@ -142,6 +142,10 @@ Resume: [JustinGarza.pdf (GoogleDrive)](https://drive.google.com/file/d/1m3p3c98
 
 
 <!--
+IBM Data Science Professional Certificate
+-->
+
+<!--
 AWS certificate
 Azure certificate
 Google Cloud certificate
