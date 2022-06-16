@@ -4,7 +4,7 @@ And Big Computer/Tech Nerd 🧠
 
 ### Contact Me at:  
 Email: jgarza9788@gmail.com  
-Cell: [1 (818) 251-0647](tel:18182510647)
+Cell: [1 (818) 251-0647](tel:18182510647)  
 Resume: [JustinGarza.pdf (GoogleDrive)](https://drive.google.com/file/d/1m3p3c98w_JtKw5QlWJU9bJeLmcu3mHia/view?usp=sharing)
 
 ---
