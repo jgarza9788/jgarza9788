@@ -47,7 +47,7 @@ JGarza9788@gmail.com
 
 ## Professional Experience:
 ### Bank of America - Global Treasury Monitoring Solution 
-#### NC	March 2022 – Present
+#### March 2022 – Present
 #### VP Software Engineer II
 * Diagnosed T-SQL Store Procedures and produced plans to optimize the code to reduce runtimes.
 * Upgraded T-SQL Store Procedures while documenting code changes. 
@@ -60,7 +60,7 @@ JGarza9788@gmail.com
 Python, Selenium, Requests, BeautifulSoap4, Pandas, Streamlit, PyCharm, Jupyter Notebook, Sublime Text 3, Git, Bitbucket, Jira, Jenkins, XLR, SonarQube, HTML, CSS, C#, Visual Studio, T-SQL, SSMS, Toad, RDBMS, SQL, Windows, Shell Scripting
 
 ### Bank of America – Enterprise Independent Testing
-#### CA	 Sept 2019 – March 2022
+#### Sept 2019 – March 2022
 #### VP Test Tools & Analytics Specialist II
 * Authored a variety of design documents in order to facilitate the migration from an SSIS based system to a web-based ETL system.
 * Resolved critical Issues with our ETL processes.
@@ -71,7 +71,7 @@ Python, Selenium, Requests, BeautifulSoap4, Pandas, Streamlit, PyCharm, Jupyter 
 Python, Matplotlib, Seaborn, Selenium, Requests, BeautifulSoap4, Pandas, NumPy, OpenPyXL, PyTorch, SciKit, Pickle, VBS/VBA, PyCharm, Jupyter Notebook, Sublime Text 3, VS Code, Git, Bitbucket, Jira, HTML, CSS, RESTful Web Services, APIs, C#, Visual Studio, T-SQL, SSMS, Toad, HDFS, Hive, Postgres, MongoDB, RDBMS, Oracle, SQL, Windows, UNIX, Shell Scripting
 
 ### Bank of America – Compliance Testing Analytics
-#### CA	 Sept 2012 – Sept 2019
+#### Sept 2012 – Sept 2019
 #### AVP Analytics Specialist
 * Maintained, and serviced, a repository of 600 SSIS packages using Team Foundation Server and SSIS.
 * Analyze SSIS package in order to answer key business questions or troubleshoot data issues and execute solutions.
@@ -90,7 +90,7 @@ Python, Matplotlib, Pandas, NumPy, OpenPyXL, VBS/VBA, PyCharm, TFS, SharePoint, 
 
 
 ### Bank of America – Imaging and File Retention
-#### CA	 Oct 2011 – Sept 2012
+#### Oct 2011 – Sept 2012
 #### Business Support Lead I
 * Generated daily, weekly, and monthly analytical reports and distributed them across several teams across the entire line of business.
 * Enhanced CRM database using reporting and data analysis.
@@ -101,8 +101,9 @@ Python, Matplotlib, Pandas, NumPy, OpenPyXL, VBS/VBA, PyCharm, TFS, SharePoint, 
 #### Environment:
 Visual Studio, T-SQL, SSMS, Toad, RDBMS, Oracle, SQL, Windows, SharePoint, Excel VBA/VBS, Shell Scripting
 
-Bank of America – Imaging and File Retention, CA	 Sept 2009 – Oct 2011
-Records Manager
+### Bank of America – Imaging and File Retention
+#### Sept 2009 – Oct 2011
+#### Records Manager
 * Responsible for researching and requesting original collateral documents for internal and external customers.
 * Collaborated and maintained lines of communication with lawyers and document custodians via fax, email, phone and conference calls.
 * Collaborated with colleagues to plan and implement the conversion of the firm’s files into a database.

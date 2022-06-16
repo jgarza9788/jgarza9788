@@ -1,5 +1,9 @@
+
+
+<img src=".\logos\memoji_thumb.png" alt="drawing" style="width:75px;"/>  
+
 ## Hi, I'm Justin Garza 
-VP, Software Engineer II at Bank of America  
+VP, Software Engineer II <img src=".\logos\bankofamerica.svg" alt="drawing" style="width:20px; height:20px"/> Bank of America    
 And Big Computer/Tech Nerd 
 
 ### Contact Me at:  
@@ -19,7 +23,11 @@ Resume: [JustinGarza.md](JustinGarza_Resume.md)
 <!-- [![Badges](https://img.shields.io/badge/dynamic/json?color=passing&logo=HackerRank&label=Badges&style=flat-square&query=%24.totalBadges&suffix=%E2%98%85&url=https%3A%2F%2Fhackerrank-badges.herokuapp.com%2Fapi%2Fjgarza9788)](https://www.hackerrank.com/jgarza9788) -->
 <!-- [![Stars](https://img.shields.io/badge/dynamic/json?color=passing&logo=HackerRank&label=Stars&style=flat-square&query=%24.totalStars&suffix=%E2%98%85&url=https%3A%2F%2Fhackerrank-badges.herokuapp.com%2Fapi%2Fjgarza9788)](https://www.hackerrank.com/jgarza9788) -->
 
-
+<div style="background-color:#ffffff; height: 32px; width:32px; border-radius: 25px; display:inline-block">
+<a href="https://www.linkedin.com/in/justin-garza-9a684a44/">
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" style="max-width: 32px;fill:#0a66c2;  padding: 0px;"><title>LinkedIn</title><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+</a>
+</div>
 
 <!-- 
 ---
