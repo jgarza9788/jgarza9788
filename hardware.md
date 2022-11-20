@@ -11,7 +11,7 @@
 * Phanteks Eclipse P400 ATX Mid Tower Case
 * SeaSonic X 660 W 80+ Gold Certified Fully Modular ATX Power Supply
 
-# Ark (Noah's PC)
+# Ark (Noah's PC) (DESKTOP-ALL1KNA)
 * AMD Ryzen 3 3200G 3.6 GHz Quad-Core Processor
 * ~~MSI B450M BAZOOKA MAX WIFI Micro ATX AM4 Motherboard~~
 * MSI Arsenal Gaming AMD Ryzen 2ND and 3rd Gen AM4 M.2 USB 3 DDR4 DVI HDMI Crossfire ATX Motherboard (B450 TOMAHAWK MAX II)
