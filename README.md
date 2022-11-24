@@ -55,7 +55,7 @@ Resume: [JustinGarza.md](JustinGarza_Resume.md)
 
 ### Top Portfolio Projects
 
-(Portfolio Projects){https://github.com/stars/jgarza9788/lists/portfolio]
+[Portfolio Projects](https://github.com/stars/jgarza9788/lists/portfolio)
 
 <!--
 AWS certificate
