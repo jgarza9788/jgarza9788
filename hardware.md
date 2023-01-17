@@ -10,6 +10,8 @@
 * EVGA FTW GAMING ACX 3.0 GeForce GTX 1080 8 GB Video Card
 * Phanteks Eclipse P400 ATX Mid Tower Case
 * SeaSonic X 660 W 80+ Gold Certified Fully Modular ATX Power Supply
+* Teday TelDaykemei 10Dbi Antenna Wi-Fi 6E AX210 Bluetooth 5.2 + 5374Mbps 2.4Ghz 5Ghz 6Ghz M.2 2230 Key E Desktop Kit Wireless Adapter AX210NGW Gigabit Network Card 802.11axac MU-MIMO OFDMA Windows 10
+* ELUTENG PCIE USB 3.0 Card 4 Ports PCI Expree to USB Expansion Card Super Speed 5Gbps PCI-e USB3 Hub Controller Adapter for Windows 10/8.1/8/7/XP/Vista
 
 # Ark (Noah's PC) (DESKTOP-ALL1KNA)
 * AMD Ryzen 3 3200G 3.6 GHz Quad-Core Processor
