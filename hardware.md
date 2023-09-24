@@ -1,5 +1,5 @@
 
-# Dreadnought
+# Roxanne
 * Intel Core i7-12700 - Core i7 12th Gen Alder Lake 12-Core (8P+4E) 2.1 GHz LGA 1700 65W Intel UHD Graphics 770 Desktop Processor - BX8071512700
 * ASUS ROG Strix Z690-F Gaming WiFi 6E LGA 1700(Intel® 12th&13th Gen) ATX gaming motherboard(PCIe 5.0, DDR5,16+1 power stages,2.5 Gb LAN,Bluetooth v5.2,Thunderbolt 4)
 * CORSAIR Vengeance 32GB (2 x 16GB) 288-Pin PC RAM DDR5 5600 (PC5 44800) Desktop Memory Model CMK32GX5M2B5600C36
