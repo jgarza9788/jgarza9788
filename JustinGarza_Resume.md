@@ -5,7 +5,7 @@
 ## Summary:
 A highly skilled Python Developer and Data Analyst with over 6 years of experience in system design, testing, and integration of APIs. Demonstrates expertise in automation, data analysis, and full software development life cycle. Recognized for exceptional collaborative and mentoring skills, contributing to operational excellence and risk management in high-stakes environments.
 
-## Professional Experience
+## Professional Experience:
 
 ### Bank of America - Global Treasury Monitoring Solution, NC
 **VP Software Engineer II**  
@@ -47,7 +47,8 @@ _2014_
 * Dean’s List (Multiple)
 
 
-## Certifications
+## Certifications:
+
 * Python (top 5%) – [LinkedIn.com](https://www.linkedin.com/in/justin-garza-9a684a44/)
 * Excel (top 5%) – [LinkedIn.com](https://www.linkedin.com/in/justin-garza-9a684a44/)
 * Python Certification – [HackerRank.com](https://www.hackerrank.com/jgarza9788)
@@ -55,7 +56,8 @@ _2014_
 * SQL Certification – [HackerRank.com](https://www.hackerrank.com/jgarza9788)
 * C# Certification – [HackerRank.com](https://www.hackerrank.com/jgarza9788)
 
-## Skills
+## Skills:
+
 - **Programming**: Python, Java, SQL, C#, VBS/VBA
 - **Frameworks/Libraries**: Django, Streamlit, Matplotlib, Seaborn, Altair, Selenium, Requests, BeautifulSoup4, Pandas, NumPy, OpenPyXL, PyTorch, SciKit, Pickle
 - **Tools**: VS Code, Atom, Sublime Text 3, Jupyter Notebook, PyCharm, Visual Studio, Git, BitBucket, SourceTree, Jira, Jenkins, XLR, SonarQube
@@ -63,17 +65,20 @@ _2014_
 - **Web Technologies**: HTML, CSS, BootStrap, JavaScript, XML, JSON, RESTful Web Services, APIs
 - **Operating Systems**: Windows, MAC OS, Unix/Linux
 
-## Recent Achievements & Contributions (2023)
+## Recent Achievements & Contributions:
+
 - Fostered a mentoring culture, training interns and leading knowledge-sharing initiatives.
 - Developed an extensive documentation library, significantly improving team operations.
 - Proactively prepared for cloud migrations, contributing to UI development and design.
 - Demonstrated leadership in risk management, notably in transitioning GTMS from Datical to Radical.
 - Enhanced operational excellence through process improvements and technology upgrades.
 
-## Professional Attributes
+## Professional Attributes:
+
 - Strong problem-solving and analytical skills.
 - Excellent team player, adaptable and self-motivated.
 - Proven ability to manage multiple tasks and commit to organizational goals.
 
-## References
+## References:
+
 Available upon request.
