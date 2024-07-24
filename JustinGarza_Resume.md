@@ -1,84 +1,113 @@
-# Justin Garza
-- 📞 818 251 0647  
-- 📧 JGarza9788@gmail.com  
+### Justin Garza
+- Email: jgarza9788@gmail.com
+- Phone: (818) 251-0647
+- GitHub: [github.com/jgarza9788](https://github.com/jgarza9788)
 
-## Summary:
-A highly skilled Python Developer and Data Analyst with over 6 years of experience in system design, testing, and integration of APIs. Demonstrates expertise in automation, data analysis, and full software development life cycle. Recognized for exceptional collaborative and mentoring skills, contributing to operational excellence and risk management in high-stakes environments.
+---
 
-## Professional Experience:
+### Professional Summary
 
-### Bank of America - Global Treasury Monitoring Solution, NC
+Innovative and detail-oriented Test Development Specialist with over 2 years of experience in developing both manual and automated testing procedures. Adept at collaborating with Compliance and Operational Risk officers to design effective sampling and testing strategies. Proficient in applying quantitative methods, programming (SQL, Python), and driving process improvements and automation. Demonstrated expertise in global financial crimes, fraud, anti-money laundering, and customer due diligence.
+
+---
+
+### Professional Experience
+
+#### Bank of America - Global Treasury Monitoring Solution, NC
 **VP Software Engineer II**  
 _March 2022 - Present_
-- Optimized T-SQL Store Procedures, significantly reducing runtime and enhancing code efficiency.
-- Led the transition from Datical to Radical, improving system performance and risk management.
-- Spearheaded the creation of coding standards, enhancing team efficiency and code quality.
-- Conducted in-depth bug analysis using Python and SonarQube, identifying and resolving critical issues.
-- Played a key role in test automation and process improvement, contributing to the team’s operational excellence.
 
-### Bank of America - Enterprise Independent Testing, CA
+- Designed and implemented independent testing procedures to support compliance and operational risk needs, including transactional, qualitative, and employee quality review testing.
+- Optimized T-SQL Store Procedures, significantly reducing runtime and enhancing code efficiency, ensuring repeatability and reliability of testing processes.
+- Led the transition from Datical to Radical, improving system performance, risk management, and automation viability.
+- Spearheaded the creation of coding standards, enhancing team efficiency and code quality, and managing the quality of the test design process.
+- Conducted in-depth bug analysis using Python and SonarQube, identifying and resolving critical issues, and collaborating with Front Line Unit process owners.
+
+#### Bank of America - Enterprise Independent Testing, CA
 **VP Test Tools & Analytics Specialist II**  
-_Sept 2019 - March 2022_
+_September 2019 - March 2022_
+
+- Developed and validated Python/SQL scripts for ETL processes, enhancing data integrity and reliability, and supporting the design of sampling and testing procedures.
 - Authored design documents for the migration from an SSIS-based system to a web-based ETL system, improving data handling and process efficiency.
-- Developed and validated Python/SQL scripts for ETL processes, enhancing data integrity and reliability.
+- Collaborated with Compliance and Operational Risk officers to design effective test procedures, ensuring the repeatability and reliability of the testing.
+- Assessed databases and documentation from internal and external sources to develop data extract, sampling, and testing procedures.
 
-### Bank of America - Compliance Testing Analytics, CA
+#### Bank of America - Compliance Testing Analytics, CA
 **AVP Analytics Specialist**  
-_Sept 2012 - Sept 2019_
-- Managed and serviced a repository of 600 SSIS packages, ensuring data accuracy and compliance.
+_September 2012 - September 2019_
+
+- Managed and serviced a repository of 600 SSIS packages, ensuring data accuracy, compliance, and supporting operational and administrative activities related to the end-to-end test development process.
 - Designed SSIS packages using T-SQL, Visual Basic, and C#, streamlining data staging and cleaning processes.
+- Collaborated with Front Line Unit data contacts and subject matter experts to develop data extract, sampling, and testing procedures.
+- Provided actionable insights and improvements through quality assurance and process standardization.
 
-### Bank of America - Imaging and File Retention, CA
+#### Bank of America - Imaging and File Retention, CA
 **Records Manager & Business Support Lead I**  
-_Oct 2011 - Sept 2012_
-- Generated key analytical reports, enhancing CRM database functionality through advanced data analysis.
+_October 2011 - September 2012_
 
+- Generated key analytical reports, enhancing CRM database functionality through advanced data analysis and supporting data collection and entry.
+- Ensured data privacy and protection through meticulous records management and compliance with relevant laws, rules, and regulations.
+- Contributed to process improvement initiatives, leading to enhanced operational efficiency and reporting accuracy.
 
-## Education:
+---
 
-### Udacity
+### Key Achievements
+
+- **Diversity & Inclusion:** Fostered a collaborative and inclusive work environment, mentoring new team members and providing valuable feedback for planning and resource management.
+- **Manage Risk:** Enhanced risk management capabilities by participating in risk conversations and analyzing transaction data for better reporting and decision-making.
+- **Operational Excellence:** Set higher standards for testing quality, introduced new tools, and contributed to AGILE planning and process improvements.
+- **Great Place to Work:** Mentored team members, shared knowledge through documentation, and advocated for efficiency improvements within the team.
+- **Project Leadership:** Successfully managed testing for critical applications, overcoming challenges through innovative solutions and effective team collaboration.
+
+---
+
+### Education
+
+#### Udacity
 **Deep Learning Nanodegree**  
 _2021_
 
-### Devry University
+#### Devry University
 **Bachelor of Computer Information Systems**  
 _2014_
 * GPA 3.8
 * Dean’s List (Multiple)
 
 
-## Certifications:
+---
 
-* Python (top 5%) – [LinkedIn.com](https://www.linkedin.com/in/justin-garza-9a684a44/)
-* Excel (top 5%) – [LinkedIn.com](https://www.linkedin.com/in/justin-garza-9a684a44/)
-* Python Certification – [HackerRank.com](https://www.hackerrank.com/jgarza9788)
-* Java Certification – [HackerRank.com](https://www.hackerrank.com/jgarza9788)
-* SQL Certification – [HackerRank.com](https://www.hackerrank.com/jgarza9788)
-* C# Certification – [HackerRank.com](https://www.hackerrank.com/jgarza9788)
+### Skills
 
-## Skills:
+- **Programming:** SQL, Python
+- **Testing & Automation:** Manual and Automated Testing, Application Development, Quality Assurance
+- **Data Analysis:** Data Collection and Entry, Statistical Analysis, Business Intelligence
+- **Compliance & Risk Management:** Global Financial Crimes, Fraud, Anti-Money Laundering, Customer Due Diligence
+- **Soft Skills:** Adaptability, Attention to Detail, Collaboration, Problem Solving, Intellectual Curiosity
 
-- **Programming**: Python, Java, SQL, C#, VBS/VBA
-- **Frameworks/Libraries**: Django, Streamlit, Matplotlib, Seaborn, Altair, Selenium, Requests, BeautifulSoup4, Pandas, NumPy, OpenPyXL, PyTorch, SciKit, Pickle
-- **Tools**: VS Code, Atom, Sublime Text 3, Jupyter Notebook, PyCharm, Visual Studio, Git, BitBucket, SourceTree, Jira, Jenkins, XLR, SonarQube
-- **Data Management**: HDFS, Hive, Postgres, MongoDB, RDBMS, Oracle, SQL
-- **Web Technologies**: HTML, CSS, BootStrap, JavaScript, XML, JSON, RESTful Web Services, APIs
-- **Operating Systems**: Windows, MAC OS, Unix/Linux
+---
 
-## Recent Achievements & Contributions:
+### Certifications
 
-- Fostered a mentoring culture, training interns and leading knowledge-sharing initiatives.
-- Developed an extensive documentation library, significantly improving team operations.
-- Proactively prepared for cloud migrations, contributing to UI development and design.
-- Demonstrated leadership in risk management, notably in transitioning GTMS from Datical to Radical.
-- Enhanced operational excellence through process improvements and technology upgrades.
+- **Docker Training**
+- **Python Workshop**
+- **Java Workshop**
 
-## Professional Attributes:
+---
 
-- Strong problem-solving and analytical skills.
-- Excellent team player, adaptable and self-motivated.
-- Proven ability to manage multiple tasks and commit to organizational goals.
+### Professional Development
 
-## References:
+- **Current Training:** OpenShift
+
+---
+
+### Goals
+
+- Enhance coding and automation skills
+- Take over the IPB Hub project
+- Continuously improve team processes through innovative solutions and ongoing learning
+
+---
+
+### References
 
 Available upon request.
