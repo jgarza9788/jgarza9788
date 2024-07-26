@@ -1,0 +1,71 @@
+Sampling & Test Development Specialist II
+ 
+
+
+Job Description:
+
+At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. Responsible Growth is how we run our company and how we deliver for our clients, teammates, communities and shareholders every day.
+
+One of the keys to driving Responsible Growth is being a great place to work for our teammates around the world. We’re devoted to being a diverse and inclusive workplace for everyone. We hire individuals with a broad range of backgrounds and experiences and invest heavily in our teammates and their families by offering competitive benefits to support their physical, emotional, and financial well-being.
+
+Bank of America believes both in the importance of working together and offering flexibility to our employees. We use a multi-faceted approach for flexibility, depending on the various roles in our organization.
+
+Working at Bank of America will give you a great career with opportunities to learn, grow and make an impact, along with the power to make a difference. Join us!
+
+Job Description:
+
+This job is responsible for accurate and timely development of manual and automated testing and/or supporting operational and administrative activities related to the end to end test development process. Key responsibilities of the job include evaluating test structure to determine automation viability, accessing pertinent databases to source testing data, and collaborating with Compliance and Operational Risk officers and/or Front Line Unit (FLU) process owners to design sampling and test procedures that support the test objective and ensure the repeatability and reliability of the testing.
+
+Responsibilities:
+
+Designs independent testing on a team in support of coverage needs identified by Compliance and Operational Risk officers and/or Front Line Unit process owners, inclusive of transactional, qualitative, onsite, employee quality review, and surveillance testing
+Assesses databases and documentation from internal and external sources to develop data extract, sampling, and testing procedures, working closely with Front Line Unit data contacts and subject matter experts
+Collaborates with Compliance and Operational Risk officers and/or Front Line Unit process owners to design sampling and test procedures that support the test objective and ensure the repeatability and reliability of the testing
+Manages the quality of the test design process in accordance with the Independent Testing Enterprise Policy and Standard
+Skills:
+
+Adaptability
+Attention to Detail
+Collaboration
+Monitoring, Surveillance, and Testing
+Problem Solving
+Application Development
+Data Collection and Entry
+Data Privacy and Protection
+Influence
+Issue Management
+Automation
+Business Intelligence
+Interpret Relevant Laws, Rules, and Regulations
+Quality Assurance
+Reporting
+Team Overview 
+
+Global Risk Analytics (GRA) and Enterprise Independent Testing (EIT) are sub-lines of business within Global Risk Management (GRM). Collectively, they are responsible for developing a consistent and coherent set of models, analytical tools, and tests for effective risk and capital measurement, management and reporting across Bank of America. GRA and EIT partner with the Lines of Business and Enterprise functions to ensure the capabilities it builds address both internal and regulatory requirements, and are responsive to the changing nature of portfolios, economic conditions, and emerging risks. In executing its activities, GRA and EIT drive innovation, process improvement and automation.  
+Role Overview 
+
+The Sample & Test Developer is responsible for developing testing scripts that provide timely, useful, and actionable independent insight on the operational health of Bank of America’s processes.  
+The developer will assess the quality of both manual and automated tests, validate data sourcing, conduct required sampling governance or distribute samples for testing, and design or revise sampling procedure documentation, with expert level efficiency and quality. This role is responsible for accessing pertinent databases or acquiring raw data from third party sources. 
+The developer works closely with process owners in the Front-Line Units and Control Functions (FLUs/CFs) to obtain an understanding of their processes, including underlying data, flows, and controls, and to identify risks to successful execution, so that appropriate testing and monitoring can be developed.  
+This role also entails partnering effectively with Global Compliance Operational Risk (GCOR), as well as various horizontal teams within Global Risk Analytics/Enterprise Independent Testing who provide operational, data sourcing, and technology infrastructure support. The outputs of the methodologies will be used to drive process improvements and timely detection of errors. 
+This role is integral to the Bank’s commitment to process excellence. We are looking for candidates with expertise in process and operational excellence, but this does not need to necessarily be in a Financial Institution and could be in manufacturing, logistics, etc.  
+The processes to be assessed span across Products (e.g., card, mortgage, autos), Regulations (e.g., The Bank Secrecy Act (BSA), the U.S. PATRIOT Act, Anti-Bribery Anti Corruption, and Anti-Money Laundering Laws), and Enterprise Processes (e.g., Global Human Recourses (GHR), Global Financial Crimes (GFC), Global Strategy & Enterprise Platforms (GSEP), Fraud, Anti-Money Laundering (AML), Customer Due Diligence (CDD)). The outputs of the methodologies will be used to drive process improvements and timely detection and reporting of errors. 
+The role requires being able to document and verbally explain the intuition and details behind the methodologies in a manner that is clear, concise, and consumable for a broad set of audiences that include key stakeholders across the Bank, as well as auditors and regulators. 
+Required Education & Experience 
+
+Bachelor’s degrees or above in fields including but not limited to: Finance, Economics, Mathematics, Computer Science, Statistics, Process and Mechanical Engineering, Operations Research, Data Science, Accounting, Business Administration 
+2+ years of relevant work experience  
+Required Skills 
+
+Experience applying quantitative methods Digital fluency such as modelling, data analytics, machine learning, and statistics to develop business solutions 
+Programming skills (e.g., SQL, Python) and solid understanding of Software Development Life cycle principles 
+Possesses subject matter expertise/experience in Global Financial Crimes (GFC), Fraud, Anti-Money Laundering (AML), Customer Due Diligence (CDD)) 
+Applies critical thinking and connects the dots on how processes relate to one another;  
+Feels ownership and accountability for delivering high quality work, able to prioritize effectively, adapt, and meet strict deadlines  
+Strong written, verbal, presentation creation and delivery skills 
+Well organized, and has attention to detail 
+Intellectual curiosity and an ability to challenge the status quo 
+Desired Skills and Experience 
+
+Knowledge of financial services industry and related regulations 
+Experience implementing process improvements and automation  
