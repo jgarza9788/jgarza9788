@@ -25,7 +25,7 @@
 * Teday TelDaykemei 10Dbi Antenna Wi-Fi 6E AX210 Bluetooth 5.2 + 5374Mbps 2.4Ghz 5Ghz 6Ghz M.2 2230 Key E Desktop Kit Wireless Adapter AX210NGW Gigabit Network Card 802.11axac MU-MIMO OFDMA Windows 10
 * ELUTENG PCIE USB 3.0 Card 4 Ports PCI Expree to USB Expansion Card Super Speed 5Gbps PCI-e USB3 Hub Controller Adapter for Windows 10/8.1/8/7/XP/Vista
 
-# Megazord & BB
+# Megazord 
 * OS: Proxmox VE 9.1.1 x86_64
 * Host: HP Z2 Mini G3 Workstation
 * Kernel: Linux 6.17.2-1-pve
@@ -38,9 +38,11 @@
 * Memory: 1.58 GiB / 15.41 GiB (10%)
 * Swap: 0 B / 8.00 GiB (0%)
 * Disk (/): 3.85 GiB / 62.44 GiB (6%) - ext4
-* Disk (/mnt/BB00): 2.03 MiB / 7.39 TiB (0%) - ext4
 * Local IP (wlp2s0): 192.168.1.222/24
 * Locale: en_US.UTF-8   
+
+## BlackBox
+* Disk (/mnt/BB00): 2.03 MiB / 7.39 TiB (0%) - ext4
 
 # Ark (Noah's PC) (DESKTOP-ALL1KNA)
 * AMD Ryzen 3 3200G 3.6 GHz Quad-Core Processor
