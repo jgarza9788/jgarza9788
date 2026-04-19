@@ -43,6 +43,7 @@
 
 ## BlackBox
 * Disk (/mnt/BB00): 2.03 MiB / 7.39 TiB (0%) - ext4
+* Disk (/mnt/BB01): ??? / 20TB - ext4
 
 <!--
 # Ark (Noah's PC) (DESKTOP-ALL1KNA)
