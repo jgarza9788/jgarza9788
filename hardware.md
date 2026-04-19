@@ -44,6 +44,7 @@
 ## BlackBox
 * Disk (/mnt/BB00): 2.03 MiB / 7.39 TiB (0%) - ext4
 
+<!--
 # Ark (Noah's PC) (DESKTOP-ALL1KNA)
 * AMD Ryzen 3 3200G 3.6 GHz Quad-Core Processor
 * ~~MSI B450M BAZOOKA MAX WIFI Micro ATX AM4 Motherboard~~
@@ -55,3 +56,4 @@
 > (upgrade -- ASRock Radeon RX6700XT CLD 12G Radeon RX 6700 XT 12 GB Video Card)
 * Zalman S2 ATX Mid Tower Case
 * EVGA 500 BQ 500 W 80+ Bronze Certified Semi-modular ATX Power Supply
+-->
